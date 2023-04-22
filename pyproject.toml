@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "recipes"
+version = "0.1.0"
+description = ""
+authors = ["Maniak Root <maniakroot@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+falcon = "^3.1.1"
+SQLAlchemy = "^2.0.10"
+falcon-cors = "^1.1.7"
+waitress = "^2.1.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

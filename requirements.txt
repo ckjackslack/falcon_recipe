@@ -1,0 +1,6 @@
+falcon @ file:///home/ckjackslack/.cache/pypoetry/artifacts/81/a8/53/2e21c47fe64275fec70dc78646a59f44db4daf38e448af7e6fe718926c/falcon-3.1.1-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+falcon-cors @ file:///home/ckjackslack/.cache/pypoetry/artifacts/60/c7/9b/a2a514c8a27308846df73f865279bd589a587a00ccb8d629380e0625c0/falcon-cors-1.1.7.tar.gz
+greenlet @ file:///home/ckjackslack/.cache/pypoetry/artifacts/23/6a/a7/c691e87c853287969c8160a707e82c496c0bb65d94c1c35d69238d1082/greenlet-2.0.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+SQLAlchemy @ file:///home/ckjackslack/.cache/pypoetry/artifacts/a6/8d/2a/1a3a14d260ead202139944961e13e2e7980981a0e287445c6148522552/SQLAlchemy-2.0.10-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+typing_extensions @ file:///home/ckjackslack/.cache/pypoetry/artifacts/05/3e/be/3f521835cc5953a7eb965030d329644d576ce76edebf642b1858afe013/typing_extensions-4.5.0-py3-none-any.whl
+waitress @ file:///home/ckjackslack/.cache/pypoetry/artifacts/ac/f9/d1/a09e96f749e7102c69b65723682f7858bebf1d4c6508964044150e7cb5/waitress-2.1.2-py3-none-any.whl

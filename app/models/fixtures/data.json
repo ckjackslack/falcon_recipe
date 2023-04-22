@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Tikka Masala",
+        "description": "roasted marinated chicken chunks in a spiced sauce",
+        "category": "indian"
+    },
+    {
+        "name": "Margherita",
+        "description": "traditional pizza with mozzarella cheese, tomato sauce, and basil",
+        "category": "italian"
+    },
+    {
+        "name": "Tonkotsu ramen",
+        "description": "noodle soup made with a pork bone broth",
+        "category": "japan"
+    }
+]
